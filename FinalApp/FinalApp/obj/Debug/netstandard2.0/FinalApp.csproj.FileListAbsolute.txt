@@ -1,0 +1,10 @@
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\FinalApp.deps.json
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\FinalApp.dll
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\bin\Debug\netstandard2.0\FinalApp.pdb
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.csproj.CoreCompileInputs.cache
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.App.xaml.g.cs
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.MainPage.xaml.g.cs
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.AssemblyInfoInputs.cache
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.AssemblyInfo.cs
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.dll
+c:\users\nicholas\source\repos\FinalApp\FinalApp\FinalApp\obj\Debug\netstandard2.0\FinalApp.pdb
